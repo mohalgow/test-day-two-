@@ -1,16 +1,14 @@
 ---
-# Chandra Arya
-Software and DevOps engineer, Cloud architect, Instructor.
+# MOHAMMED ALGOW
+DevOps engineer, Cloud architect.
 
 <div id="webaddress">
-<a href="chandradeoarya@gmail.com">chandradeoarya@gmail.com</a>
-| <a href="http://chandradeoarya.com">My Tech blog</a>
-</div>
+<a href="AL-GOW@HOTMAIL.COM">AL-GOW@HOTMAIL.COM</a>
 
 
 ## Currently
 
-Lead DevOps instructor at Coding Dojo
+N/A
 
 ### Specialized in
 
